@@ -26,26 +26,29 @@
 ### <center> **WORK EXPERIENCE**
 #### <center> **Software Development**
 * **GRC Foreign Language Department**, Auburn WA (April 2019 - June 2019)  
-_Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack website designed to track the correlation between student success and time spent in the GRC Foreign Language Student Learning Center.    
+_Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack website designed to track the correlation between student success and time spent in the GRC Foreign Language Student Learning Center.  
+<br/><br/>  
 * **GRC Aviation Department**, Auburn WA (September 2018 - December 2018)  
 _Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack website designed to track student flight time  data.
 #### <center> **Music**
-##### <center> Currently
+
 
 * (1999-present) Music & Arts – **_Private Percussion Instructor_**.
 * (2005 - present) Rock'n'More Music Academy - **_Private Percussion Instructor_**.
-* (2018 – present) Time Machine Radio (rock) – **_Musician_**.  
-##### <center> Previously
+* (2018 – present) Time Machine Radio (rock) – **_Musician_**.
+<br/><br/>
 
-* (1991-1993) Music Works Northwest/Kennelly Keys Music/Ted Brown Music/A# Music, _Seattle Area_ – **_Private Percussion Instructor_**.
+* (1991-1993) Music Works Northwest/Kennelly Keys Music/Ted Brown Music/A# Music – **_Private Percussion Instructor_**.
 * (1998-2002) Seattle Drum School – **_Private Percussion Instructor_**.
+<br/><br/>
 * (1992–1993) Spirit of Puget Sound (jazz/pop) - **_Musician_**
 * (1994-1997)Carnival Cruise Lines – **_Show Band Musician_**.
-* (1998-2001) Isaac Scott Blues Band(blues)  – _Musician/Manager_.
+* (1998-2001) Isaac Scott Blues Band(blues)  – **_Musician/Manager_**.
 * (1999-2006) Kimball Conant/Annie Eastwood (blues) – **_Musician_**.
 * (2005-2006) Jazz Police (Big Band Jazz) – **_Musician_**.
 * (2006-2008) Loud Mouth Blonde (rock) – **_Musician_**.
-* (2008 – 2016) The Goods/That 80’s Show/Vanity/Gold Digger(pop/hip hop/rock) – **_Musician_**.
+* (2008 – 2017) That 80’s Show (80's Music Tribute) –**_Musician_**.
+* (2011 - 2016) Gold Digger (pop/hip hop) - **_Musician/BandLeader_**
 * (2008 – 2010) Swing Session (Big Band Jazz) – **_Musician_**.
 * (2010) Stephen Pearcy “The Voice of Ratt” – **_Musician_**.
 * (2011) Zowie Bowie (pop/hip hop) – **_Musician_**.
