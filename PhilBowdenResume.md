@@ -31,8 +31,8 @@ _Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack w
 ### <center> **MUSIC WORK EXPERIENCE**
 **Musician & Music Instructor**, Greater Seattle Puget Sound Area (June 1991 - present)
 * (1999-present)Music & Arts/Rock’n’More Music Academy – **_Private Percussion Instructor_**.
-* (2018 – present) Time Machine Radio (rock) – **_Musician_**.
-**Highlights**
+* (2018 – present) Time Machine Radio (rock) – **_Musician_**.  
+#### **Highlights**
 * (1991-1993) Music Works Northwest/Kennelly Keys Music/Ted Brown Music/A# Music, _Seattle Area_ – **_Private Percussion Instructor_**.
 * (1998-2002) Seattle Drum School – **_Private Percussion Instructor_**.
 * (1992–1993) Spirit of Puget Sound (jazz/pop) - **_Musician_**
