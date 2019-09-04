@@ -30,19 +30,20 @@ _Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack w
 _Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack website designed to track student flight time  data.
 ### <center> **MUSIC WORK EXPERIENCE**
 **Musician & Music Instructor**, Greater Seattle Puget Sound Area (June 1991 - present)
-**Highlights**
 * (1999-present)Music & Arts/Rock’n’More Music Academy – **_Private Percussion Instructor_**.
-* (1991-93) Music Works Northwest/Kennelly Keys Music/Ted Brown Music/A# Music, _Seattle Area_ – **_Private Percussion Instructor_**.
+* (2018 – present) Time Machine Radio (rock) – **_Musician_**.
+**Highlights**
+* (1991-1993) Music Works Northwest/Kennelly Keys Music/Ted Brown Music/A# Music, _Seattle Area_ – **_Private Percussion Instructor_**.
 * (1998-2002) Seattle Drum School – **_Private Percussion Instructor_**.
-* (1992 – 1993) Spirit of Puget Sound (jazz/pop) - **_Musician_**
-* (1994 - 97)Carnival Cruise Lines – **_Show Band Musician_**.
+* (1992–1993) Spirit of Puget Sound (jazz/pop) - **_Musician_**
+* (1994-1997)Carnival Cruise Lines – **_Show Band Musician_**.
 * (1998-2001) Isaac Scott Blues Band(blues)  – _Musician/Manager_.
 * (1999-2006) Kimball Conant/Annie Eastwood (blues) – **_Musician_**.
-* (2005-06) Jazz Police (Big Band Jazz) – **_Musician_**.
-* (2006-08) Loud Mouth Blonde (rock) – **_Musician_**.
+* (2005-2006) Jazz Police (Big Band Jazz) – **_Musician_**.
+* (2006-2008) Loud Mouth Blonde (rock) – **_Musician_**.
 * (2008 – 2016) The Goods/That 80’s Show/Vanity/Gold Digger(pop/hip hop/rock) – **_Musician_**.
 * (2008 – 2010) Swing Session (Big Band Jazz) – **_Musician_**.
 * (2010) Stephen Pearcy “The Voice of Ratt” – **_Musician_**.
 * (2011) Zowie Bowie (pop/hip hop) – **_Musician_**.
-* (2016) Aphrodisiacs/Mr. Pink/ Spazmatics (disco/funk/pop)  – **_Musician_**.
-* (2018 – present) Time Machine Radio (rock) – **_Musician_**.
+* (2016) Aphrodisiacs/Mr. Pink/Spazmatics (disco/funk/pop)  – **_Musician_**.
+
