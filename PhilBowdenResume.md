@@ -23,16 +23,20 @@
 ### <center>**EDUCATION**
 * **Bachelor's Degree in Applied Science** - Software Development, Graduating in June 2020, Green River College, Auburn WA.
 * **Bachelor's in Music** - Percussion Performance, Central Washington University 1991.
-### <center> **IT WORK EXPERIENCE**
+### <center> **WORK EXPERIENCE**
+#### <center> **Software Development**
 * **GRC Foreign Language Department**, Auburn WA (April 2019 - June 2019)  
 _Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack website designed to track the correlation between student success and time spent in the GRC Foreign Language Student Learning Center.    
 * **GRC Aviation Department**, Auburn WA (September 2018 - December 2018)  
 _Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack website designed to track student flight time  data.
-### <center> **MUSIC WORK EXPERIENCE**
-**Musician & Music Instructor**, Greater Seattle Puget Sound Area (June 1991 - present)
-* (1999-present)Music & Arts/Rock’n’More Music Academy – **_Private Percussion Instructor_**.
+#### <center> **Music**
+##### <center> Currently
+
+* (1999-present) Music & Arts – **_Private Percussion Instructor_**.
+* (2005 - present) Rock'n'More Music Academy - **_Private Percussion Instructor_**.
 * (2018 – present) Time Machine Radio (rock) – **_Musician_**.  
-#### **Highlights**
+##### <center> Previously
+
 * (1991-1993) Music Works Northwest/Kennelly Keys Music/Ted Brown Music/A# Music, _Seattle Area_ – **_Private Percussion Instructor_**.
 * (1998-2002) Seattle Drum School – **_Private Percussion Instructor_**.
 * (1992–1993) Spirit of Puget Sound (jazz/pop) - **_Musician_**
@@ -46,4 +50,3 @@ _Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack w
 * (2010) Stephen Pearcy “The Voice of Ratt” – **_Musician_**.
 * (2011) Zowie Bowie (pop/hip hop) – **_Musician_**.
 * (2016) Aphrodisiacs/Mr. Pink/Spazmatics (disco/funk/pop)  – **_Musician_**.
-
