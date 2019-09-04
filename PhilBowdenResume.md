@@ -1,8 +1,5 @@
 # <center>Phil Bowden 
 ##### <center><phil.g.bowden@gmail.com>&nbsp; &nbsp; (253)335-8047&nbsp; &nbsp; [LinkdedIn](http://www.linkedin.com/in/phil-bowden)
-
-
-
 ## <center>SOFTWARE DEVELOPER
 ### <center> **SUMMARY**
 `Professional Musician turned Software Developer. Currently on track to receive Bachelors of Software Development in June 2020.  As a successful musician and private instructor for many years I have developed the ability to connect and communicate with clients and colleagues of all levels from beginner to professional. After two plus years of hard work as a full stack developer I’m excited to put my skills to work as part of your team in an internship role for 2019-2020.`
@@ -34,11 +31,11 @@ _Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack w
 ### <center> **MUSIC WORK EXPERIENCE**
 **Musician & Music Instructor**, Greater Seattle Puget Sound Area (June 1991 - present)
 **Highlights**
-* (1991-93) Music Works Northwest/Kennelly Keys Music/Ted Brown Music, A# Music, Lynwood/Renton/Tacoma – **_Private Percussion Instructor_**.
+* (1999-present)Music & Arts/Rock’n’More Music Academy – **_Private Percussion Instructor_**.
+* (1991-93) Music Works Northwest/Kennelly Keys Music/Ted Brown Music, A# Music, Seattle Area – **_Private Percussion Instructor_**.
+* (1998-2002) Seattle Drum School – **_Private Percussion Instructor_**.
 * (1992 – 1993) Spirit of Puget Sound (jazz/pop) - **_Musician_**
 * (1994 - 97)Carnival Cruise Lines – **_Show Band Musician_**.
-* (1998-2002) Seattle Drum School – **_Private Percussion Instructor_**.
-* (present)Music & Arts/Rock’n’More Music Academy – **_Private Percussion Instructor_**.
 * (1998-2001) Isaac Scott Blues Band(blues)  – _Musician/Manager_.
 * (1999-2006) Kimball Conant/Annie Eastwood (blues) – **_Musician_**.
 * (2005-06) Jazz Police (Big Band Jazz) – **_Musician_**.
