@@ -32,7 +32,7 @@ _Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack w
 **Musician & Music Instructor**, Greater Seattle Puget Sound Area (June 1991 - present)
 **Highlights**
 * (1999-present)Music & Arts/Rock’n’More Music Academy – **_Private Percussion Instructor_**.
-* (1991-93) Music Works Northwest/Kennelly Keys Music/Ted Brown Music, A# Music, Seattle Area – **_Private Percussion Instructor_**.
+* (1991-93) Music Works Northwest/Kennelly Keys Music/Ted Brown Music/A# Music, _Seattle Area_ – **_Private Percussion Instructor_**.
 * (1998-2002) Seattle Drum School – **_Private Percussion Instructor_**.
 * (1992 – 1993) Spirit of Puget Sound (jazz/pop) - **_Musician_**
 * (1994 - 97)Carnival Cruise Lines – **_Show Band Musician_**.
