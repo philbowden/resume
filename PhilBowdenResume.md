@@ -2,7 +2,7 @@
 ##### <center><phil.g.bowden@gmail.com>&nbsp; &nbsp; (253)335-8047&nbsp; &nbsp; [LinkdedIn](http://www.linkedin.com/in/phil-bowden)
 ## <center>SOFTWARE DEVELOPER
 ### <center> **SUMMARY**
-`Professional Musician turned Software Developer. Currently on track to receive Bachelors of Software Development in June 2020.  As a successful musician and private instructor for many years I have developed the ability to connect and communicate with clients and colleagues of all levels from beginner to professional. After two plus years of hard work as a full stack developer I’m excited to put my skills to work as part of your team in an internship role for 2019-2020.`
+Professional Musician turned Software Developer. Currently on track to receive Bachelors of Software Development in June 2020.  As a successful musician and private instructor for many years I have developed the ability to connect and communicate with clients and colleagues of all levels from beginner to professional. After two plus years of hard work as a full stack developer I’m excited to put my skills to work as part of your team in an internship role for 2019-2020.
 ### <center> **SKILLS**
 * **Agile** - Scrum | Pair Programming  
 * **Web** - HTML 5 | Cascading Style Sheets (CSS) | MySQL | MVC | Bootstrap | JSON | Fat Free Framework | SQL Server | Entity Framework
