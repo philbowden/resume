@@ -48,7 +48,7 @@ _Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack w
 * (2005-2006) Jazz Police (Big Band Jazz) – **_Musician_**.
 * (2006-2008) Loud Mouth Blonde (rock) – **_Musician_**.
 * (2008 – 2017) That 80’s Show (80's Music Tribute) –**_Musician_**.
-* (2011 - 2016) Gold Digger (pop/hip hop) - **_Musician/BandLeader_**
+* (2011 - 2016) Gold Digger (pop/hip hop) - **_Musician/Musical Director_**
 * (2008 – 2010) Swing Session (Big Band Jazz) – **_Musician_**.
 * (2010) Stephen Pearcy “The Voice of Ratt” – **_Musician_**.
 * (2011) Zowie Bowie (pop/hip hop) – **_Musician_**.
