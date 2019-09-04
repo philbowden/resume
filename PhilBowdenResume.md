@@ -24,13 +24,13 @@ Professional Musician turned Software Developer. Currently on track to receive B
 * **Bachelor's Degree in Applied Science** - Software Development, Graduating in June 2020, Green River College, Auburn WA.
 * **Bachelor's in Music** - Percussion Performance, Central Washington University 1991.
 ### <center> **WORK EXPERIENCE**
-#### <center> **Software Development**
+#### <center> **_Software Development_**
 * **GRC Foreign Language Department**, Auburn WA (April 2019 - June 2019)  
 _Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack website designed to track the correlation between student success and time spent in the GRC Foreign Language Student Learning Center.  
 <br/><br/>  
 * **GRC Aviation Department**, Auburn WA (September 2018 - December 2018)  
 _Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack website designed to track student flight time  data.
-#### <center> **Music**
+#### <center> **_Music_**
 
 
 * (1999-present) Music & Arts – **_Private Percussion Instructor_**.
