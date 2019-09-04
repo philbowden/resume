@@ -43,7 +43,7 @@ _Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack w
 <br/><br/>
 * (1992–1993) Spirit of Puget Sound (jazz/pop) - **_Musician_**
 * (1994-1997)Carnival Cruise Lines – **_Show Band Musician_**.
-* (1998-2001) Isaac Scott Blues Band(blues)  – **_Musician/Manager_**.
+* (1998-2001) Isaac Scott Blues Band(blues) – **_Musician/Manager_**.
 * (1999-2006) Kimball Conant/Annie Eastwood (blues) – **_Musician_**.
 * (2005-2006) Jazz Police (Big Band Jazz) – **_Musician_**.
 * (2006-2008) Loud Mouth Blonde (rock) – **_Musician_**.
@@ -52,4 +52,4 @@ _Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack w
 * (2008 – 2010) Swing Session (Big Band Jazz) – **_Musician_**.
 * (2010) Stephen Pearcy “The Voice of Ratt” – **_Musician_**.
 * (2011) Zowie Bowie (pop/hip hop) – **_Musician_**.
-* (2016) Aphrodisiacs/Mr. Pink/Spazmatics (disco/funk/pop)  – **_Musician_**.
+* (2016) Aphrodisiacs/Mr. Pink/Spazmatics (disco/funk/pop) – **_Musician_**.
