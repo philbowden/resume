@@ -2,7 +2,7 @@
 ##### <center><phil.g.bowden@gmail.com>&nbsp; &nbsp; (253)335-8047&nbsp; &nbsp; [LinkdedIn](http://www.linkedin.com/in/phil-bowden)
 ## <center>SOFTWARE DEVELOPER
 ### <center> **SUMMARY**
-Professional Musician turned Software Developer. Currently on track to receive an IT Web Application Development Certificate of Proficiency in December of 2019.  As a successful musician and private instructor for many years I have developed the ability to connect and communicate with clients and colleagues of all levels from beginner to professional. After two plus years of hard work as a full stack developer I’m excited to put my skills to work as part of your team in an internship or entry level role for 2019-2020.
+Professional Musician turned Software Developer. Currently on track to receive an IT Web Application Development Certificate of Proficiency in December of 2019 from Green River College.  As a successful musician and private instructor for many years I have developed the ability to connect and communicate with clients and colleagues of all levels from beginner to professional. After two plus years of hard work as a full stack developer I’m excited to put my skills to work as part of your team in an internship or entry level role for 2019-2020.
 ### <center> **SKILLS**
 * **Agile** - Scrum | Pair Programming  
 * **Web** - HTML 5 | Entity Framework | MVC | CSS | MySQL |  Bootstrap | JSON | Fat Free Framework | SQL Server 
