@@ -2,13 +2,13 @@
 ##### <center><phil.g.bowden@gmail.com>&nbsp; &nbsp; (253)335-8047&nbsp; &nbsp; [LinkdedIn](http://www.linkedin.com/in/phil-bowden)
 ## <center>SOFTWARE DEVELOPER
 ### <center> **SUMMARY**
-Professional Musician turned Software Developer. Currently on track to receive Bachelors of Software Development in June 2020.  As a successful musician and private instructor for many years I have developed the ability to connect and communicate with clients and colleagues of all levels from beginner to professional. After two plus years of hard work as a full stack developer I’m excited to put my skills to work as part of your team in an internship role for 2019-2020.
+Professional Musician turned Software Developer. Currently on track to receive an IT Web Application Development Certificate of Proficiency in December of 2019.  As a successful musician and private instructor for many years I have developed the ability to connect and communicate with clients and colleagues of all levels from beginner to professional. After two plus years of hard work as a full stack developer I’m excited to put my skills to work as part of your team in an internship or entry level role for 2019-2020.
 ### <center> **SKILLS**
 * **Agile** - Scrum | Pair Programming  
-* **Web** - HTML 5 | Cascading Style Sheets (CSS) | MySQL | MVC | Bootstrap | JSON | Fat Free Framework | SQL Server | Entity Framework
-* **Languages** - Java | JavaScript | SQL | PHP | C# | Python  
+* **Web** - HTML 5 | Entity Framework | MVC | CSS | MySQL |  Bootstrap | JSON | Fat Free Framework | SQL Server 
+* **Languages** - Java | JavaScript | SQL | PHP   
 * **Experience with** - Object Oriented Programming
-* **Tools** - GIT & GitHub | IntelliJ | PHP Storm | Eclipse | Visual Studio
+* **Tools** - Visual Studio | GIT & GitHub | IntelliJ | PHP Storm | Eclipse 
 
 ### <center> **COURSE WORK**
 * **DATA STRUCTURES** - Introduces algorithmic thinking and data structures, including lists, stacks, queues, trees, hash tables, and heaps. Focus on data structure and algorithm implementation with integrated coverage of theory: logic, sets and set operations, functions. 
@@ -24,15 +24,16 @@ Professional Musician turned Software Developer. Currently on track to receive B
 * **Bachelor's Degree in Applied Science** - Software Development, Graduating in June 2020, Green River College, Auburn WA.
 * **Bachelor's in Music** - Percussion Performance, Central Washington University 1991.
 ### <center> **WORK EXPERIENCE**
-#### <center> **_Software Development_**
+### <center> **_Software Development_**
 * **GRC Foreign Language Department**, Auburn WA (April 2019 - June 2019)  
-_Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack website designed to track the correlation between student success and time spent in the GRC Foreign Language Student Learning Center.  
-<br/><br/>  
+_Web Dev Team Member_ - Part of a team assembled for the creation of a Full-Stack website designed to track the correlation between student success and time spent in the GRC Foreign Language Student Learning Center.     
+<br/>_Tools/Languages Used_ - _C#, Entity Framework, SQL Server, Visual Studio_ 
+
 * **GRC Aviation Department**, Auburn WA (September 2018 - December 2018)  
-_Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack website designed to track student flight time  data.
-#### <center> **_Music_**
-
-
+_Web Dev Team Member_ - Part of a team assembled for the creation of a Full-Stack website designed to track student flight time  data.  
+<br/> _Tools/Languages Used_ - _PHP, Javascript, MySQL, PHP Storm_
+<br/><br/>
+### <center> **_Music_**
 * (1999-present) Music & Arts – **_Private Percussion Instructor_**.
 * (2005 - present) Rock'n'More Music Academy - **_Private Percussion Instructor_**.
 * (2018 – present) Time Machine Radio (rock) – **_Musician_**.
@@ -53,3 +54,4 @@ _Web Dev Team Member_ - Part of a team assembled for the creation a Full-Stack w
 * (2010) Stephen Pearcy “The Voice of Ratt” – **_Musician_**.
 * (2011) Zowie Bowie (pop/hip hop) – **_Musician_**.
 * (2016) Aphrodisiacs/Mr. Pink/Spazmatics (disco/funk/pop) – **_Musician_**.
+
